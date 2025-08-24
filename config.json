@@ -261,6 +261,20 @@
                     "apple"
                 ]
             }
+        },
+        {
+            "type": "text",
+            "action": "output",
+            "args": {
+                "outputDir": "./output",
+                "outputName": "geoip-wall.txt",
+                "wantedList": [
+                    "cn",
+                    "ru",
+                    "private",
+                    "apple"
+                ]
+            }
         }
     ]
 }
